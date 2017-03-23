@@ -246,6 +246,9 @@ header .contact-btn a {
   border-radius: 40px;
   text-decoration: none;
 }
+header .contact-btn a:hover {
+  color: #123148;
+}
 section.main-banner {
   background: url('../img/bg.png') no-repeat center center;
   background-size: cover;
