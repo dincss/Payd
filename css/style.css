@@ -247,7 +247,7 @@ header .contact-btn a {
   text-decoration: none;
 }
 header .contact-btn a:hover {
-  color: #123148;
+  color: red;
 }
 section.main-banner {
   background: url('../img/bg.png') no-repeat center center;
