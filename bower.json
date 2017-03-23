@@ -1,0 +1,29 @@
+{
+  "name": "4-com.pro",
+  "description": "company",
+  "main": "",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "authors": [
+    "4-com"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.4"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
